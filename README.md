@@ -2,6 +2,8 @@
 
 BTC-only 4H derivatives positioning cockpit for `trading.skralovnik.com`.
 
+Deployment target: Vercel project `trading1` → `trading.skralovnik.com`.
+
 ## What is already implemented
 - one-screen five-signal stack,
 - Binance + Bybit crowd-account long/short cross-check (used as a retail/crowd proxy),
